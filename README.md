@@ -54,7 +54,7 @@
 
 <br/>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1500&height=100&duration=4000&lines=Hi+There!+👋;+I+am+19+years+old+I+always+crazy+on+python+I+love+code+and+python+Now+I+am+reaching+out+the+new+technologies+with+python+I'm+sharing+about+the+international+online+education+platform+for+youth+like+me!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=2000&height=100&duration=4000&lines=Hi+There!+👋;+I+am+19+years+old+I+always+crazy+on+python+I+love+code+and+python+Now+I+am+reaching+out+the+new+technologies+with+python+I'm+sharing+about+the+international+online+education+platform+for+youth+like+me!;" />
 </p>
 
 <div align="center">
