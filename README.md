@@ -9,6 +9,7 @@
 <div align="center">
  
  🔭 I’m currently working on **a Japanese Base IT company**
+ <img src="Programación y codificación_ programador sentado en el escritorio y la ilustración de trabajo _ Vector Premium.jpg">
  
  🌱 I’m currently learning **Docker, CI/CD Pipelines, AWS**
 
@@ -52,15 +53,14 @@
 <hr/>
 
 <br/>
-
+<h1>Hi EveryOne 👋
+<br/>
+<br/>I'm Thiri Shwe Hlaing<br/>I'm 19 years old<br/>I'm an Python Django Developer.I always crazy on python.</h1>
 <div align="center">
 <a href='https://ko-fi.com/thirishwehlaing' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
-### <h1>Hi EveryOne 👋
-<br/>
-<br/>I'm Thiri Shwe Hlaing<br/>I'm 19 years old<br/>I'm an Python Django Developer.I always crazy on python.</h1>
 <p>I love code and python .
 Now I'm reaching out the new technologies with python. 
 I'm sharing about the international online education platform for youth like me  .</p>
 
-<img src="Programación y codificación_ programador sentado en el escritorio y la ilustración de trabajo _ Vector Premium.jpg">
+
