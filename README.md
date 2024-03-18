@@ -54,11 +54,9 @@
 
 <br/>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=8000&lines=Hi+There!+👋;+I+am+19+years+old+I+always+crazy+on+python+I+love+code+and+python+Now+I+am+reaching+out+the+new+technologies+with+python+I'm+sharing+about+the+international+online+education+platform+for+youth+like+me!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+There!+👋;+I+am+19+years+old+I+always+crazy+on+python+I+love+code+and+python+Now+I+am+reaching+out+the+new+technologies+with+python+I'm+sharing+about+the+international+online+education+platform+for+youth+like+me!;" />
 </p>
-<h1>Hi EveryOne 👋
-<br/>
-<br/>I'm Thiri Shwe Hlaing<br/>I'm 19 years old<br/>I'm an Python Django Developer.I always crazy on python.</h1>
+
 <div align="center">
 <a href='https://ko-fi.com/thirishwehlaing' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
