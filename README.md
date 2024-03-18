@@ -55,9 +55,9 @@
 <br/>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=Hi+There!+👋;+I+am+19+years+old!;" />
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=I+always+crazy+on+python" />
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=I+love+code+and+python!" />
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=Now+I+am+reaching+out+the+new+technologies+with+python!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1400&height=100&duration=4000&lines=I+always+crazy+on+python" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=5200&height=100&duration=4000&lines=I+love+code+and+python!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1800&height=100&duration=4000&lines=Now+I+am+reaching+out+the+new+technologies+with+python!" />
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=2000&height=100&duration=4000&lines=I+am+sharing+about+the+international+online+education+platform+for+youth+like+me!" />
     
 </p>
