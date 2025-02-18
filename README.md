@@ -54,7 +54,7 @@
 
 <br/>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1100&height=100&duration=4000&lines=I+am+19+years+old!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1100&height=100&duration=4000&lines=I+am+20+years+old!;" />
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1300&height=100&duration=4000&lines=I+always+crazy+on+python" />
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1500&height=100&duration=4000&lines=I+love+code+and+python!" />
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1800&height=100&duration=4000&lines=Now+I+am+reaching+out+the+new+technologies+with+python+and+aws+cloud!" />
